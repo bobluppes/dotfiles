@@ -1,0 +1,700 @@
+{
+	"folder_history":
+	[
+		"/home/bob/Documents/ACS/acs-lab2",
+		"/home/bob/Documents/SBD/lab-2-group-3",
+		"/home/bob/Documents/SBD/lab-1-group-3",
+		"/home/bob/Documents/CRYPTO/assignment_1",
+		"/home/bob/Documents/SBD/sbd",
+		"/home/bob/Documents/ACS/acs-lab1"
+	],
+	"last_version": 3211,
+	"last_window_id": 47,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1040.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plain",
+						"plaintext"
+					],
+					[
+						"pl",
+						"plaintextFreqs"
+					],
+					[
+						"cuda",
+						"cudaMemcpyHostToDevice"
+					],
+					[
+						"cip",
+						"ciphertext"
+					],
+					[
+						"ciph",
+						"ciphertext1"
+					],
+					[
+						"coordinate",
+						"coordinateResolution"
+					],
+					[
+						"Use",
+						"UsedOpenStreetMapData"
+					],
+					[
+						"Open",
+						"OpenStreetMapData"
+					],
+					[
+						"b",
+						"brewerylocator\t  Module"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Her",
+						"Hermes: Connect Kernel"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"about",
+						"About"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"package con",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bob/Documents/ACS/acs-lab2/jobscript.sbatch",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/water.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/imgproc-benchmark.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/imgproc_cuda.cu",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/imgproc_cuda.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/water_cuda.cu",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Image.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Kernel.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Kernel.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Image.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/lodepng/lodepng.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/CMakeLists.txt",
+				"/home/bob/Documents/SBD/sbd/src/lab2/assignment.md",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/BreweryLocator.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/Datastructures.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/HelperFunctions.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/README.md",
+				"/home/bob/Documents/SBD/lab-1-group-3/scalastyle-config.xml",
+				"/home/bob/Documents/SBD/lab-1-group-3/.scalafmt.conf",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Histogram.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Histogram.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/water_cuda.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/images/test.png",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/utils/Matrix.h",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_ocl.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_omp.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/experiments.h",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/experiments.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_simd.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/tests/test_matmult.h",
+				"/home/bob/Documents/ACS/acs-lab1/report/plotting_tutorial.ipynb",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/acsmatmult.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/matmult.h",
+				"/home/bob/Documents/SBD/lab-1-group-3/build.sbt",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/brewerylocator/BreweryLocator.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/brewerylocator/Datastructures.scala",
+				"/home/bob/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/bob/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/Lab1.scala"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 264.0
+			},
+			"output.diagnostics":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 243.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plain",
+						"plaintext"
+					],
+					[
+						"pl",
+						"plaintextFreqs"
+					],
+					[
+						"cuda",
+						"cudaMemcpyHostToDevice"
+					],
+					[
+						"cip",
+						"ciphertext"
+					],
+					[
+						"ciph",
+						"ciphertext1"
+					],
+					[
+						"coordinate",
+						"coordinateResolution"
+					],
+					[
+						"Use",
+						"UsedOpenStreetMapData"
+					],
+					[
+						"Open",
+						"OpenStreetMapData"
+					],
+					[
+						"b",
+						"brewerylocator\t  Module"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bob/Documents/ACS/acs-lab2/src/baseline/water.cpp",
+					"settings":
+					{
+						"buffer_size": 5726,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.cpp",
+					"settings":
+					{
+						"buffer_size": 6135,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Her",
+						"Hermes: Connect Kernel"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"about",
+						"About"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"package con",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/bob/Documents/ACS/acs-lab2",
+				"/home/bob/Documents/ACS/acs-lab2/src",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline"
+			],
+			"file_history":
+			[
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Histogram.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Histogram.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/jobscript.sbatch",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/water.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/imgproc-benchmark.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/imgproc_cuda.cu",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/imgproc_cuda.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/water_cuda.cu",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Image.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Kernel.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Kernel.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/utils/Image.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/lodepng/lodepng.cpp",
+				"/home/bob/Documents/ACS/acs-lab2/CMakeLists.txt",
+				"/home/bob/Documents/SBD/sbd/src/lab2/assignment.md",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/BreweryLocator.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/Datastructures.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/HelperFunctions.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/README.md",
+				"/home/bob/Documents/SBD/lab-1-group-3/scalastyle-config.xml",
+				"/home/bob/Documents/SBD/lab-1-group-3/.scalafmt.conf",
+				"/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/src/students/water_cuda.hpp",
+				"/home/bob/Documents/ACS/acs-lab2/images/test.png",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/utils/Matrix.h",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_ocl.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_omp.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/experiments.h",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/experiments.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/students/matmult_simd.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/tests/test_matmult.h",
+				"/home/bob/Documents/ACS/acs-lab1/report/plotting_tutorial.ipynb",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/acsmatmult.cpp",
+				"/home/bob/Documents/ACS/acs-lab1/app/src/acsmatmult/matmult.h",
+				"/home/bob/Documents/SBD/lab-1-group-3/build.sbt",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/brewerylocator/BreweryLocator.scala",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/brewerylocator/Datastructures.scala",
+				"/home/bob/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/bob/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/bob/Documents/SBD/lab-1-group-3/src/main/scala/Lab1.scala"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bob/Documents/ACS/acs-lab2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bob/Documents/ACS/acs-lab2/src/baseline/water.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5726,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										608,
+										608
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bob/Documents/ACS/acs-lab2/src/baseline/imgproc.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6135,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6135,
+										6135
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1440.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 264.0
+			},
+			"output.diagnostics":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,18,1916,1058,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 243.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 47,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

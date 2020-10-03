@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Blade Snippets",
+		"CUDA C++",
+		"Emmet",
+		"Helium",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel 5 Snippets",
+		"Laravel Assertion Completions",
+		"Laravel Blade Highlighter",
+		"Laravel Helper Completions",
+		"LSP",
+		"LSP-metals",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-scalastyle"
+	],
+	"repositories":
+	[
+		"https://github.com/sh4nks/sublime-text-plugin-autoclose"
+	]
+}

@@ -1,0 +1,1 @@
+{"version": "0.5.1", "dependencies": [], "platforms": ["*"], "url": "https://github.com/scalameta/metals-sublime", "sublime_text": ">=3092", "description": "Sublime Text package for Metals, a language server for Scala"}

@@ -1,0 +1,5 @@
+[Added Associations]
+text/x-c++src=vim.desktop;
+application/octet-stream=libreoffice-calc.desktop;
+image/png=gimp.desktop;
+image/jpeg=gimp.desktop;

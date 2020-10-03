@@ -1,0 +1,70 @@
+{
+    "schema_version": 2,
+    "timestamp": 1601764133,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/bob/Documents/www/luppes-software",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "Serve",
+                    "custom_label_set": true
+                },
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/bob/Documents/www/luppes-software",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "Watcher",
+                    "custom_label_set": true
+                },
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/bob/Documents/www/luppes-software",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "Artisan",
+                    "custom_label_set": true
+                },
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/bob/Documents/www/Barstat",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "Terminal",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
